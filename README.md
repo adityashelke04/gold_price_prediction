@@ -1,5 +1,6 @@
 # Gold Price Prediction
 ![Final Plot](https://github.com/adityashelke04/gold_price_prediction/blob/f73cb85097f13aa58b120e5fa264bfcdf6447fbb/screenshots/Actual%20Price%20vs%20Predicted%20Price.png)
+
 A machine learning project that predicts gold prices (GLD) using **Random Forest Regression** based on historical market data including stock indices, oil prices, silver prices, and currency exchange rates.
 
 ## Project Overview
