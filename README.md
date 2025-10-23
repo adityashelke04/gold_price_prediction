@@ -1,5 +1,5 @@
 # Gold Price Prediction
-
+![Final Plot]()
 A machine learning project that predicts gold prices (GLD) using **Random Forest Regression** based on historical market data including stock indices, oil prices, silver prices, and currency exchange rates.
 
 ## Project Overview
