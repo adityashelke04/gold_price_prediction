@@ -20,7 +20,7 @@ The dataset contains **2,290 records** spanning from January 2008 to May 2018 wi
 
 ## Technologies Used
 
-- **Python 3**
+- **Python 3** 
 - **NumPy**: Numerical computing
 - **Pandas**: Data manipulation and analysis
 - **Matplotlib**: Data visualization
